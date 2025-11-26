@@ -1,4 +1,4 @@
-# 🎓 Challenge Technique – Master Génie Informatique  
+# 🎓 Challenge Technique
 ## Mini-Plateforme de Gestion de Tâches  
 **Technologies : PHP (Laravel) – React – MySQL – Docker**
 
@@ -17,8 +17,6 @@ Les compétences évaluées sont :
 - Manipulation MySQL  
 - Utilisation de Docker pour orchestrer l’environnement  
 - Logique, autonomie, organisation  
-
-Ce challenge est destiné à des étudiantes **junior**, sans exigence d’expertise.
 
 ---
 
@@ -109,7 +107,7 @@ Le projet doit pouvoir être lancé en une commande.
    - Description du projet  
    - Instructions d’installation et lancement  
    - Problèmes rencontrés et solutions  
-5. (Optionnel) Captures d’écran du résultat
+5. (Optionnel) Captures d’écran du résultat des différents écrans
 
 ---
 
